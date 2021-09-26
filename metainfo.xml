@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<presentation availableOffline="1" guid="F405DA82-5F5F-41B3-A66E-90F2C0166A6F" version="0">
+	<info>
+		<title>2021_09_26_EXAM14CLASSIX</title>
+		<description/>
+	</info>
+	<files index="id27" thumbnail="id23" totalSize="2324442">
+		<file id="id0">data/apple-touch-icon.png</file>
+		<file id="id1">data/browsersupport.js</file>
+		<file id="id2">data/favicon.ico</file>
+		<file id="id3">data/fonts/fnt0.woff</file>
+		<file id="id4">data/fonts/fnt1.woff</file>
+		<file id="id5">data/fonts/fnt2.woff</file>
+		<file id="id6">data/fonts/fnt3.woff</file>
+		<file id="id7">data/fonts/fnt4.woff</file>
+		<file id="id8">data/fonts/fnt5.woff</file>
+		<file id="id9">data/html5-unsupported.html</file>
+		<file id="id10">data/html5.png</file>
+		<file id="id11">data/images/img-02b6509aad6d81f5ed850d20acb5ca4f538e64f7.png</file>
+		<file id="id12">data/images/img-1597d96eb465792af33063926a03a06e29c0838a.png</file>
+		<file id="id13">data/images/img-19a1da965da8a7d1eeabc6006da5181484a363ef.png</file>
+		<file id="id14">data/images/img-1be44943805cec9db6b538a83faba3da96000347.png</file>
+		<file id="id15">data/images/img-22e724b5db463efe235c2d5bc25231fd9f7ccdf8.png</file>
+		<file id="id16">data/images/img-910f1497f2e3a7081876e6bfba73de4946af1df5.png</file>
+		<file id="id17">data/images/img-96a673f7ccbaf4c5a84eabbabdbbad3d3efbf3f7.png</file>
+		<file id="id18">data/images/img-9b10dbeb0b22c0bcbe675cca6203e432b10ec780.png</file>
+		<file id="id19">data/images/img-9e8c75ab61942ff92d64eba784022007cedde54f.png</file>
+		<file id="id20">data/images/img-b6bd4935e324803523d34a72574f42275f8f0e0a.png</file>
+		<file id="id21">data/ismplayer/app_store2x.png</file>
+		<file id="id22">data/ismplayer/play.svg</file>
+		<file id="id23">data/ismplayer/preview.png</file>
+		<file id="id24">data/ismplayer/style.css</file>
+		<file id="id25">data/ismplayer/style_mini.css</file>
+		<file id="id26">data/player.js</file>
+		<file id="id27">index.html</file>
+		<file id="id28">ismplayer.html</file>
+		<file id="id29">preview.png</file>
+	</files>
+</presentation>
+
